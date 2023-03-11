@@ -13,7 +13,7 @@
   }
 
   h2 {
-    @apply text-4xl md:text-5xl py-2 text-purple-600 font-medium;
+    @apply text-4xl md:text-5xl py-2 text-purple-600 font-medium dark:text-transparent dark:bg-clip-text dark:bg-gradient-to-r dark:to-purple-400 dark:from-violet-600;
   }
 
   h3 {
