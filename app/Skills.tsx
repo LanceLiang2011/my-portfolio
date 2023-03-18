@@ -49,9 +49,9 @@ export const Skills = () => {
             and backend technologies such as{' '}
             <span className='badge-pink'>Firebase</span> or{' '}
             <span className='badge-green'>Mongodb</span> . I have experience
-            writing server-side code using{' '}
-            <span className='badge-blue'>TypeScript</span> , and I understand
-            the fundamental principles of building scalable, maintainable, and
+            building server-side web apps and apis using{' '}
+            <span className='badge-gray'>Node.js</span> , and I understand the
+            fundamental principles of building scalable, maintainable, and
             performant full-stack applications.
           </p>
         </Card>
@@ -69,7 +69,9 @@ export const Skills = () => {
             <span className='badge-yellow'>Python</span> and the{' '}
             <span className='badge-blue'>Tidyverse</span> of R. I am proficient
             in data wrangling, cleaning, and visualization techniques using
-            libraries such as pandas, numpy, ggplot2, and dplyr
+            libraries such as pandas, numpy, ggplot2, and dplyr. I have
+            experience performing CRUD against database uding{' '}
+            <span className='badge-cyan'>MySQL</span>.
           </p>
         </Card>
       </div>
