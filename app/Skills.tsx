@@ -50,8 +50,8 @@ export const Skills = () => {
             <span className='badge-pink'>Firebase</span> or{' '}
             <span className='badge-green'>Mongodb</span> . I have experience
             building server-side web apps and apis using{' '}
-            <span className='badge-gray'>Node.js</span> , and I understand the
-            fundamental principles of building scalable, maintainable, and
+            <span className='badge-gray'>Express.js</span> , and I understand
+            the fundamental principles of building scalable, maintainable, and
             performant full-stack applications.
           </p>
         </Card>
