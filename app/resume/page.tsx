@@ -81,14 +81,15 @@ const ResumePage = () => {
             </svg>
           </span>
           <h3 className='mb-1 text-lg font-semibold text-gray-900 dark:text-white'>
-            Bachlor in Basic Health Science
+            Bachelor in Basic Health Science
           </h3>
           <time className='block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500'>
             From August 2011 to July 2016
           </time>
           <p className='text-base font-normal text-gray-500 dark:text-gray-400'>
-            Studing Basic Medical Science, including anatomy, biostatistics,
-            epidemiology, etc.. immunology, physiology,etc.
+            Bachelor in Basic Medical Science, Peking University. Studing basic
+            medical subject matters, including anatomy, biostatistics,
+            epidemiology, immunology, physiology,etc...
           </p>
         </li>
       </ol>
