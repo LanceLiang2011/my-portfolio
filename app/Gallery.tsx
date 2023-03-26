@@ -127,7 +127,6 @@ export default function Gallery() {
               src={art1}
               alt=''
             />
-            girl2
             <Image
               width={220}
               className='h-auto max-w-full rounded-lg'
