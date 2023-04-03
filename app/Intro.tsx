@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import me from '../public/me.svg';
+import me from '../public/me.png';
 import {
   AiFillTwitterCircle,
   AiFillLinkedin,
@@ -33,7 +33,7 @@ export const Intro = () => {
           <AiFillGithub className='icon hover:text-slate-800' />
         </a>
       </div>
-      <div className='relative overflow-hidden mt-16 mx-auto p-2 bg-gradient-to-b from-purple-500 rounded-full w-80 h-80'>
+      <div className='relative overflow-hidden mt-16 mx-auto  rounded-full w-80 h-80'>
         <Image className='mx-auto' src={me} alt='My personal avatar' />
       </div>
     </>
