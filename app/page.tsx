@@ -14,8 +14,6 @@ export default function Home() {
       <br />
       <Portfolio />
       <br />
-      <Jupyter />
-      <br />
       <Gallery />
       <br />
       <a
