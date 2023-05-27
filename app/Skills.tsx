@@ -69,8 +69,8 @@ export const Skills = () => {
             <span className="badge-yellow">Python</span> and the{" "}
             <span className="badge-blue">Tidyverse</span> of R. I am proficient
             in data wrangling, cleaning, and visualization techniques using
-            libraries such as pandas, numpy, ggplot2, and dplyr. I have
-            experience performing CRUD against database uding{" "}
+            libraries such as matplotlib/seaborn, numpy, ggplot2, and dplyr. I
+            have experience performing CRUD against database uding{" "}
             <span className="badge-cyan">MySQL</span>. I have experience
             building machine learning models using{" "}
             <span className="badge-blue">Scikit-Learn</span> and{" "}
