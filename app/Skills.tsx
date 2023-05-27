@@ -55,7 +55,7 @@ export const Skills = () => {
             performant full-stack applications.
           </p>
         </Card>
-        <Card title="Data Analysis">
+        <Card title="Data Science">
           <div className="md:flex items-center max-w-lg ">
             <Image
               src={analysis}
