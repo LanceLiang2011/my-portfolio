@@ -22,6 +22,33 @@ export default function Jupyter() {
               target="_blank"
             >
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                Blue Book for Bulldozers
+              </h5>
+            </a>
+            <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
+              This project is a milestone project of Complete Machine Learning &
+              Data Science Bootcamp inspired by the Kaggle project Blue Book for
+              Bulldozers. The target of the prject is to Predict the auction
+              sale price for a piece of heavy equipment to create a blue book
+              for bulldozers. The learning purpose of the project is to building
+              regression models with time series data, as well as learning more
+              ways of data cleaning and feature engineering.
+            </p>
+            <a
+              href="https://github.com/LanceLiang2011/Linear_Regression_Project/blob/main/Linear%20Regression%20Project.ipynb"
+              target="_blank"
+              className="inline-flex items-center px-4 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+            >
+              Read more
+            </a>
+          </div>
+
+          <div className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+            <a
+              href="https://github.com/LanceLiang2011/Linear_Regression_Project/blob/main/Linear%20Regression%20Project.ipynb"
+              target="_blank"
+            >
+              <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 Linear Regression Project
               </h5>
             </a>
