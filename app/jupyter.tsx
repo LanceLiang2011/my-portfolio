@@ -28,9 +28,7 @@ export default function Jupyter() {
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
               This project is a milestone project of Complete Machine Learning &
               Data Science Bootcamp inspired by the Kaggle project Blue Book for
-              Bulldozers. The target of the prject is to Predict the auction
-              sale price for a piece of heavy equipment to create a blue book
-              for bulldozers. The learning purpose of the project is to building
+              Bulldozers. The learning purpose of the project is to building
               regression models with time series data, as well as learning more
               ways of data cleaning and feature engineering.
             </p>
