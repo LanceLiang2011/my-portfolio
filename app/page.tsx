@@ -16,8 +16,8 @@ export default function Home() {
       <br />
       <Jupyter />
       <br />
-      <Gallery />
-      <br />
+      {/* <Gallery />
+      <br /> */}
       <a
         href="#"
         type="button"

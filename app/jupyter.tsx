@@ -4,7 +4,7 @@ export default function Jupyter() {
   return (
     <section className="text-center">
       <div>
-        <h3 className="text-purple-600">Jupyter Notebook</h3>
+        <h3 className="text-purple-600">Data Science Notebooks</h3>
         <div className="mx-auto my-6 max-w-4xl p-6">
           <p>
             Welcome to my Data Science portfolio, featuring a compilation of
