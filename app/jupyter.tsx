@@ -17,7 +17,10 @@ export default function Jupyter() {
         </div>
         <div className="mx-auto my-6 max-w-7xl p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 items-center justify-center gap-6">
           <div className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-            <a href="#" target="_blank">
+            <a
+              href="https://github.com/LanceLiang2011/colab_projects/blob/main/DogImageClassifier/DogImageClassifier.ipynb"
+              target="_blank"
+            >
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 Transfer Learning to Classify Different Dog Breeds
               </h5>
@@ -29,7 +32,7 @@ export default function Jupyter() {
               classification models with transfer learning and TensorFlow Hub.
             </p>
             <a
-              href="#"
+              href="https://github.com/LanceLiang2011/colab_projects/blob/main/DogImageClassifier/DogImageClassifier.ipynb"
               target="_blank"
               className="inline-flex items-center px-4 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
             >
