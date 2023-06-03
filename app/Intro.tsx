@@ -1,7 +1,7 @@
 import Image from "next/image";
 import me from "../public/me.png";
 import {
-  AiFillTwitterCircle,
+  AiFillMediumCircle,
   AiFillLinkedin,
   AiFillGithub,
 } from "react-icons/ai";
@@ -20,8 +20,8 @@ export const Intro = () => {
         </p>
       </section>
       <div className="text-4xl md:text-5xl lg:text-6xl flex justify-center gap-16 py-3 text-gray-600">
-        <a target="_blank" href="https://twitter.com/LanceXLiang">
-          <AiFillTwitterCircle className="icon hover:text-blue-400" />
+        <a target="_blank" href="https://medium.com/@liangxianyi2011_28511">
+          <AiFillMediumCircle className="icon hover:text-zinc-800" />
         </a>
         <a
           target="_blank"
