@@ -49,7 +49,7 @@ export default function Jupyter() {
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
               This is a milestone project of Pierian Data&apos;s Python for
               Machine Learning & Data Science Masterclass. The project do
-              exploratory analyssi and follow by using different tree-base
+              exploratory analysis and follow by using different tree-base
               models to perform classification tasks, and compare the
               perfomance.
             </p>
