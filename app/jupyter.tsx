@@ -47,7 +47,7 @@ export default function Jupyter() {
               </h5>
             </a>
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-              This is a Capstone Project of Pierian Data&apos;s Python for
+              This is a milestone project of Pierian Data&apos;s Python for
               Machine Learning & Data Science Masterclass. The project do
               exploratory analyssi and follow by using different tree-base
               models to perform classification tasks, and compare the
@@ -97,7 +97,7 @@ export default function Jupyter() {
               </h5>
             </a>
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-              This is a Capstone Project of Pierian Data&apos;s Python for
+              This is a milestone project of Pierian Data&apos;s Python for
               Machine Learning & Data Science Masterclass. In this project, I am
               going to clean the dataset, handling missing data, perform feature
               engineering, and finally build a linear regression machine
@@ -122,7 +122,7 @@ export default function Jupyter() {
               </h5>
             </a>
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-              This is a capstone project of online cousrse by Pierian Data Inc.
+              This is a milestone project of online cousrse by Pierian Data Inc.
               The project is for practising pandas, numpy, and seaborn library.
               Beyond the capstone deliverable, I also perform statistical
               analysis using pingouin library to test significance.
