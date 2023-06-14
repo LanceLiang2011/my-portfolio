@@ -67,11 +67,11 @@ export const Skills = () => {
           <p>
             I have experience in data analysis using{" "}
             <span className="badge-yellow">Python</span> and the{" "}
-            <span className="badge-blue">Tidyverse</span> of R. I am proficient
-            in data wrangling, cleaning, and visualization techniques using
-            libraries such as matplotlib/seaborn, numpy, ggplot2, and dplyr. I
-            have experience performing CRUD against database uding{" "}
-            <span className="badge-cyan">MySQL</span>. I have experience
+            <span className="badge-blue">R</span>. I am proficient in data
+            wrangling, cleaning, and visualization techniques using libraries
+            such as matplotlib/seaborn, numpy, tidyverse, and tableau. I have
+            experience performing NLP using{" "}
+            <span className="badge-blue">SpaCy</span>. I have experience
             building machine learning models using{" "}
             <span className="badge-blue">Scikit-Learn</span> and{" "}
             <span className="badge-yellow">TensorFlow</span>.
