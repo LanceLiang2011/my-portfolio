@@ -69,8 +69,8 @@ export const Skills = () => {
             <span className="badge-yellow">Python</span> and the{" "}
             <span className="badge-blue">R</span>. I am proficient in data
             wrangling, cleaning, and visualization techniques using libraries
-            such as matplotlib/seaborn, numpy, tidyverse, and tableau. I have
-            experience performing NLP using{" "}
+            such as matplotlib/seaborn, numpy, pandas, tidyverse, and tableau. I
+            have experience performing NLP using{" "}
             <span className="badge-blue">SpaCy</span>. I have experience
             building machine learning models using{" "}
             <span className="badge-blue">Scikit-Learn</span> and{" "}
