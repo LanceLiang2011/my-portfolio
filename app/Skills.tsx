@@ -7,7 +7,9 @@ import analysis from "../public/analysis.png";
 export const Skills = () => {
   return (
     <section className=" text-center mt-10">
-      <h3 className="text-purple-600">Skills & Qualifications</h3>
+      <div className="sticky top-0 bg-white">
+        <h3 className="text-purple-600">Skills & Qualifications</h3>
+      </div>
       <div className="lg:flex lg:gap-3 xl:gap-6">
         <Card title="Website development">
           <div className="md:flex items-center max-w-lg ">
