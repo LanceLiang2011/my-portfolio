@@ -4,6 +4,7 @@ import web1 from "../public/web1.png";
 import web2 from "../public/web2.png";
 import web3 from "../public/web3.png";
 import web4 from "../public/web4.png";
+import web5 from "../public/web5.png";
 
 export const Portfolio = () => {
   return (
@@ -26,6 +27,15 @@ export const Portfolio = () => {
           </p>
         </div>
         <div className="mx-auto my-6 max-w-7xl p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 items-center justify-center gap-6">
+          <ImageCard
+            src={web5}
+            alt="website"
+            title="Frontend Mentor"
+            paragraph="My Frontend Mentor portfolio with my fontend practice."
+            href="https://www.frontendmentor.io/profile/LanceLiang2011/"
+            shadow={true}
+            skills={["HTML", "CSS", "JavaScript"]}
+          />
           <ImageCard
             src={web4}
             alt="website"
