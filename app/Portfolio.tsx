@@ -31,7 +31,7 @@ export const Portfolio = () => {
             src={web5}
             alt="website"
             title="Frontend Mentor"
-            paragraph="My Frontend Mentor portfolio with my fontend practice."
+            paragraph="My Frontend Mentor portfolio with my fontend practice. All built on my own based on instructions"
             href="https://www.frontendmentor.io/profile/LanceLiang2011/"
             shadow={true}
             skills={["HTML", "CSS", "JavaScript"]}
