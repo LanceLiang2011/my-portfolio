@@ -25,9 +25,9 @@ export const Skills = () => {
             such as static websites, dynamic websites, and single-page
             applications (SPAs) using{" "}
             <span className="badge-yellow">JavaScript</span>
-            frameworks like <span className="badge-gray">Next.js</span> ,{" "}
-            <span className="badge-blue">React.js</span> with{" "}
-            <span className="badge-purple">Redux</span>, and{" "}
+            library <span className="badge-blue">React.js</span> with{" "}
+            <span className="badge-purple">Redux</span>, and building full stack
+            websites with <span className="badge-gray">Next.js</span> or
             <span className="badge-pink">Astro</span>. I have worked with
             <span className="badge-yellow">Figma</span>,
             <span className="badge-green">Css</span>,
