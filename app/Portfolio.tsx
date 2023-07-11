@@ -5,6 +5,7 @@ import web2 from "../public/web2.png";
 import web3 from "../public/web3.png";
 import web4 from "../public/web4.png";
 import web5 from "../public/web5.png";
+import web6 from "../public/web6.png";
 
 export const Portfolio = () => {
   return (
@@ -35,6 +36,15 @@ export const Portfolio = () => {
             href="https://www.frontendmentor.io/profile/LanceLiang2011/"
             shadow={true}
             skills={["HTML", "CSS", "JavaScript"]}
+          />
+          <ImageCard
+            src={web6}
+            alt="website"
+            title="Chronic Pain Tracker"
+            paragraph="Buiding a web-app tracking chronic pain of user with Next.js and supabase"
+            href="https://date-tracker-flax.vercel.app/"
+            shadow={true}
+            skills={["Nextjs", "Supabase", "MUI"]}
           />
           <ImageCard
             src={web4}
