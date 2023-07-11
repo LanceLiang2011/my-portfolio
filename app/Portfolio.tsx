@@ -53,7 +53,7 @@ export const Portfolio = () => {
             paragraph="A practising clone project. Building IMBd clone using Next.js 13, tailwind css and TMDB api"
             href="https://imdb-clone-coral.vercel.app/"
             shadow={true}
-            skills={["Next", "Tailwind", "api"]}
+            skills={["Nextjs", "Tailwind", "api"]}
           />
           <ImageCard
             src={web1}
