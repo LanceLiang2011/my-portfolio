@@ -37,15 +37,7 @@ export const Portfolio = () => {
             shadow={true}
             skills={["HTML", "CSS", "JavaScript"]}
           />
-          <ImageCard
-            src={web6}
-            alt="website"
-            title="Chronic Pain Tracker"
-            paragraph="Buiding a web-app tracking chronic pain of user with Next.js and supabase. Practising Next 13 app route."
-            href="https://date-tracker-flax.vercel.app/"
-            shadow={true}
-            skills={["Nextjs", "Supabase", "MUI"]}
-          />
+
           <ImageCard
             src={web4}
             alt="website"
@@ -74,13 +66,13 @@ export const Portfolio = () => {
             skills={["React", "Firebase", "Reducer"]}
           />
           <ImageCard
-            src={web3}
+            src={web6}
             alt="website"
-            title="Astro Blog"
-            paragraph="A simple Markdown Blog Site build by Astro, following the official guide. Astro Island build by Preact"
-            href="https://astro-blog-practice.netlify.app/"
+            title="Chronic Pain Tracker"
+            paragraph="Buiding a web-app tracking chronic pain of user with Next.js and supabase. Practising Next 13 app route."
+            href="https://date-tracker-flax.vercel.app/"
             shadow={true}
-            skills={["Astro", "Preact"]}
+            skills={["Nextjs", "Supabase", "MUI"]}
           />
         </div>
       </div>
