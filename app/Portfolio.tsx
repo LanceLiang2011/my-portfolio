@@ -41,7 +41,7 @@ export const Portfolio = () => {
             src={web6}
             alt="website"
             title="Chronic Pain Tracker"
-            paragraph="Buiding a web-app tracking chronic pain of user with Next.js and supabase"
+            paragraph="Buiding a web-app tracking chronic pain of user with Next.js and supabase. Practising Next 13 app route."
             href="https://date-tracker-flax.vercel.app/"
             shadow={true}
             skills={["Nextjs", "Supabase", "MUI"]}
