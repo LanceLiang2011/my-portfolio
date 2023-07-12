@@ -42,7 +42,7 @@ export const Portfolio = () => {
             src={web3}
             alt="website"
             title="Twitter Clone"
-            paragraph="A practising clone project. Building Twitter clone using Next.js sever action, Supabase and tailwind. (Not complete)"
+            paragraph="A practising clone project. Building Twitter clone using Next.js sever action, Supabase and tailwind. (In progress, backend not complete)"
             href="https://twitter-clone-gold-gamma.vercel.app//"
             shadow={true}
             skills={["Nextjs", "Tailwind", "Supabase"]}
