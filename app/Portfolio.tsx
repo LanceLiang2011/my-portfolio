@@ -39,6 +39,16 @@ export const Portfolio = () => {
           />
 
           <ImageCard
+            src={web3}
+            alt="website"
+            title="Twitter Clone"
+            paragraph="A practising clone project. Building Twitter clone using Next.js sever action, Supabase and tailwind. (Not complete)"
+            href="https://twitter-clone-gold-gamma.vercel.app//"
+            shadow={true}
+            skills={["Nextjs", "Tailwind", "Supabase"]}
+          />
+
+          <ImageCard
             src={web4}
             alt="website"
             title="IMDb Clone"
