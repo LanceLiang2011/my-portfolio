@@ -11,8 +11,11 @@ export const Intro = () => {
     <>
       <section className="text-center p-10">
         <h2>Lance Xianyi Liang</h2>
-        <h3 className="md:text-4xl lg:text-5xl md:my-6">
-          Researcher & Developer
+        <h3 className="md:text-4xl lg:text-5xl md:my-6 font-semibold">
+          Researcher &{" "}
+          <span className="bg-gradient-to-r from-purple-600 via-red-500 to-orange-400  bg-clip-text text-transparent">
+            Developer
+          </span>
         </h3>
         <p className="md:text-2xl lg:text-3xl md:my-4">
           Welcome to my website
