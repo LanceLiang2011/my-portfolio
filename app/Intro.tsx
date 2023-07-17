@@ -15,7 +15,13 @@ export const Intro = () => {
           Researcher & Developer
         </h3>
         <p className="md:text-2xl lg:text-3xl md:my-4">
-          A Ph.D. in physiology. A Traslational Research student. A
+          Welcome to my website
+          <span className=" animate-wave inline-block origin-bottom-right">
+            👋
+          </span>
+        </p>
+        <p className="md:text-2xl lg:text-3xl md:my-4">
+          I am a Ph.D. in physiology. A Traslational Research student. A
           self-learning Developer.
         </p>
       </section>
