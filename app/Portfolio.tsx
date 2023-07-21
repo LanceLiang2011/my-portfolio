@@ -38,7 +38,7 @@ export const Portfolio = () => {
             skills={["HTML", "CSS", "JavaScript"]}
           />
 
-          <ImageCard
+          {/* <ImageCard
             src={web3}
             alt="website"
             title="Twitter Clone"
@@ -46,7 +46,7 @@ export const Portfolio = () => {
             href="https://twitter-clone-gold-gamma.vercel.app//"
             shadow={true}
             skills={["Nextjs", "Tailwind", "Supabase"]}
-          />
+          /> */}
 
           <ImageCard
             src={web4}
