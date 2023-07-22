@@ -38,15 +38,15 @@ export const Portfolio = () => {
             skills={["HTML", "CSS", "JavaScript"]}
           />
 
-          {/* <ImageCard
+          <ImageCard
             src={web3}
             alt="website"
-            title="Twitter Clone"
-            paragraph="A practising clone project. Building Twitter clone using Next.js sever action, Supabase and tailwind. (In progress, backend not complete)"
-            href="https://twitter-clone-gold-gamma.vercel.app//"
+            title="Lamazon Ecommerce"
+            paragraph="A mockup e-commerce project buiding with Next.js, Prisma and Mongodb for Database and Next Auth for Auth"
+            href="/"
             shadow={true}
-            skills={["Nextjs", "Tailwind", "Supabase"]}
-          /> */}
+            skills={["Nextjs", "Prisma", "NextAuth"]}
+          />
 
           <ImageCard
             src={web4}
