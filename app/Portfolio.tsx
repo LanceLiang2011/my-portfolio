@@ -42,8 +42,8 @@ export const Portfolio = () => {
             src={web3}
             alt="website"
             title="Lamazon Ecommerce"
-            paragraph="A mockup e-commerce project buiding with Next.js, Prisma and Mongodb for Database and Next Auth for Auth"
-            href="/"
+            paragraph="A mockup e-commerce project buiding with Next.js, Prisma. Mongodb and Next Auth. Support anonymous cart using cookies."
+            href="https://lamazon-one.vercel.app/"
             shadow={true}
             skills={["Nextjs", "Prisma", "NextAuth"]}
           />
