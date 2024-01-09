@@ -1,11 +1,14 @@
-import { ImageCard } from "@/components/ImageCard";
+import { ImageCard } from '@/components/ImageCard';
 
-import web1 from "../public/web1.png";
-import web2 from "../public/web2.png";
-import web3 from "../public/web3.png";
-import web4 from "../public/web4.png";
-import web5 from "../public/web5.png";
-import web6 from "../public/web6.png";
+import web1 from '../public/web1.png';
+import web2 from '../public/web2.png';
+import web3 from '../public/web3.png';
+import web4 from '../public/web4.png';
+import web5 from '../public/web5.png';
+import web6 from '../public/web6.png';
+import web7 from '../public/web7.png';
+import web8 from '../public/web8.png';
+import web9 from '../public/web9.png';
 
 export const Portfolio = () => {
   return (
@@ -28,6 +31,33 @@ export const Portfolio = () => {
           </p>
         </div>
         <div className="mx-auto my-6 max-w-7xl p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 items-center justify-center gap-6">
+        <ImageCard
+            src={web9}
+            alt="website"
+            title="Code Collider"
+            paragraph="A Blue Ocean project for Hack Reactor. A team project buiding a website for developers to cooperate, share and mentor dev projects."
+            href="https://code-collider.up.railway.app/"
+            shadow={true}
+            skills={['Nextjs', 'Supabase', 'Reactjs']}
+          />
+          <ImageCard
+            src={web8}
+            alt="website"
+            title="Innovo Labs Consulting"
+            paragraph="A website I build for a consulting startup using Astro.build. A mult-page static website with 99 Lighthouse Performance score."
+            href="https://innovolabsconsulting.ca/"
+            shadow={true}
+            skills={['Astro.build', 'Tailwindcss']}
+          />
+        <ImageCard
+            src={web7}
+            alt="website"
+            title="Toyproblem Overflow"
+            paragraph="A minimal viable product for Hack Reactor that built in 2 days. A website for users to post, solve and share coding problems."
+            href="https://toyproblem-overflow.vercel.app/"
+            shadow={true}
+            skills={['Nextjs', 'Supabase', 'PrismaORM']}
+          />
           <ImageCard
             src={web5}
             alt="website"
@@ -35,7 +65,7 @@ export const Portfolio = () => {
             paragraph="My Frontend Mentor portfolio showing my front-end skills practice. All built on my own based on design specificities"
             href="https://www.frontendmentor.io/profile/LanceLiang2011/"
             shadow={true}
-            skills={["HTML", "CSS", "JavaScript"]}
+            skills={['HTML', 'CSS', 'JavaScript']}
           />
 
           <ImageCard
@@ -45,7 +75,7 @@ export const Portfolio = () => {
             paragraph="A mockup e-commerce project buiding with Next.js, Prisma. Mongodb and Next Auth. Support anonymous cart using cookies."
             href="https://lamazon-one.vercel.app/"
             shadow={true}
-            skills={["Nextjs", "Prisma", "NextAuth"]}
+            skills={['Nextjs', 'Prisma', 'NextAuth']}
           />
 
           <ImageCard
@@ -55,7 +85,7 @@ export const Portfolio = () => {
             paragraph="A practising clone project. Building IMBd clone using Next.js 13, tailwind css and TMDB api"
             href="https://imdb-clone-coral.vercel.app/"
             shadow={true}
-            skills={["Nextjs", "Tailwind", "api"]}
+            skills={['Nextjs', 'Tailwind', 'api']}
           />
           <ImageCard
             src={web1}
@@ -64,7 +94,7 @@ export const Portfolio = () => {
             paragraph="A learning project from React Developer in 2023. Designed by Yihua Zhang from Zero To Mastery."
             href="https://crwn-clothing-udemy.netlify.app"
             shadow={true}
-            skills={["React", "Firestore", "Sass"]}
+            skills={['React', 'Firestore', 'Sass']}
           />
           <ImageCard
             src={web2}
@@ -73,7 +103,7 @@ export const Portfolio = () => {
             paragraph="A learning project from React - The Complete Guide. Designed by Maximilian Schwarzmüller."
             href="https://react-meal-context.netlify.app/"
             shadow={true}
-            skills={["React", "Firebase", "Reducer"]}
+            skills={['React', 'Firebase', 'Reducer']}
           />
           <ImageCard
             src={web6}
@@ -82,7 +112,7 @@ export const Portfolio = () => {
             paragraph="Buiding a web-app tracking chronic pain of user with Next.js and supabase. Practising Next 13 app route."
             href="https://date-tracker-flax.vercel.app/"
             shadow={true}
-            skills={["Nextjs", "Supabase", "MUI"]}
+            skills={['Nextjs', 'Supabase', 'MUI']}
           />
         </div>
       </div>
