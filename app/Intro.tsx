@@ -24,8 +24,8 @@ export const Intro = () => {
           </span>
         </p>
         <p className="md:text-2xl lg:text-3xl md:my-4">
-          I am a Ph.D. in physiology. A Traslational Research student. A
-          self-learning Developer.
+          I am a Ph.D. in physiology. A Traslational Researcher in Health Science. A
+          Full Stack Developer.
         </p>
       </section>
       <div className="text-4xl md:text-5xl lg:text-6xl flex justify-center gap-16 py-3 text-gray-600">
